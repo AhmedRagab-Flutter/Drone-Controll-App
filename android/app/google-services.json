@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892035165207",
+    "project_id": "hawkeyeapp-e489f",
+    "storage_bucket": "hawkeyeapp-e489f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892035165207:android:762301f79ec80b3245c052",
+        "android_client_info": {
+          "package_name": "com.example.hawkeyeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPjUIoVU3HoZOTFvoqPs87-j2yFDllcIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
